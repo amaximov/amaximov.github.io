@@ -9,10 +9,10 @@ a:hover, a:focus {
 }
 
 a:visited {
-  color: #427995;
+  color: slateblue;
 }
 
-h1 a:hover {
+h1 a:hover, a:focus {
   text-decoration: underline;
   font-weight: bold;
 }
