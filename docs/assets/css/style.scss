@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+a::hover {
+  text-decoration: underline;
+  font-weight: normal;
+}
