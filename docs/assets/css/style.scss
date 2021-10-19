@@ -24,3 +24,14 @@ h4 a:hover, h4 a:focus {
 h1 a:visited {
   color: #267CB9;
 }
+
+footnotes::before {
+    content: '';
+    position: absolute;
+    width: 100vw;
+    height: 1px;
+    left: 0;
+    display: block;
+    clear: both;
+    background-color: black;
+}
