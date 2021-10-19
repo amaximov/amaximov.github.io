@@ -12,7 +12,10 @@ a:visited {
   color: slateblue;
 }
 
-h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus {
+h1 a:hover, h1 a:focus,
+h2 a:hover, h2 a:focus,
+h3 a:hover, h3 a:focus,
+h4 a:hover, h4 a:focus {
   text-decoration: underline;
   font-weight: bold;
   color: #267CB9;
