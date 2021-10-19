@@ -8,17 +8,17 @@ title: >-
 # face the enemy
 
 > We should forget about small efficiencies, say about 97% of the time:
-> premature optimization is the root of all evil<sup>[1](#fn1)</sup>
+> premature optimization is the root of all evil[^1]
 
 continuing the topic of my previous post ([do not deploy black boxes,
 allow for measurement, metrics, monitoring](/2007/8/24/mopping-up)), i
 offer you my two rules of performance optimization (heavily *optimized*
-for enterprise environment<sup>[2](#fn2)</sup>).
+for enterprise environment[^2]).
 
 # rule #1: don’t do it
 
 i’ve seen more crimes committed against software in the name of
-performance optimization than for any other reason<sup>[3](#fn3)</sup>.
+performance optimization than for any other reason[^3].
 
 don’t bother with performance optimization – deliver working software
 first.
@@ -126,11 +126,11 @@ programmers](http://www.pragprog.com/),
 [rails](http://www.rubyonrails.org/), and the whole community around it.
 and of course, it is not the technology but the mindset.
 
-<sup>1</sup> [donald knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+[^1]: [donald knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 paraphrasing [hoare](http://en.wikipedia.org/wiki/C._A._R._Hoare)
 
-<sup>2</sup> with apologies to [m. a.
+[^2]: with apologies to [m. a.
 jackson](http://en.wikipedia.org/wiki/Michael_A._Jackson)
 
-<sup>3</sup> with apologies to [w. a.
+[^3]: with apologies to [w. a.
 wulf](http://en.wikipedia.org/wiki/William_Wulf)
