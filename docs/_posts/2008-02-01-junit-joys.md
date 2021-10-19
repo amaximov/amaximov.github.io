@@ -13,7 +13,7 @@ did not do much, so i started writing tests to see how it worked.
 <img src="/assets/2008/2/1/working_effectively_with_legacy_code.jpg" data-align="right" />
 
 after a few minutes of waiting for eclipse +
-junit4.3.1<sup>[1](#fn1)</sup> combo to load, i furiously coded a bunch
+junit4.3.1[^1] combo to load, i furiously coded a bunch
 of tests, and then realized that i could not make them fail. essentially
 it boiled down to the following:
 
@@ -118,4 +118,4 @@ uses many existing java libraries; it might be a bit of a mindset shift
 for a java project that is looking for simplified testing. for now i am
 keeping an eye on projects like [JtestR](http://jtestr.codehaus.org/)
 
-<sup>1</sup> default version of junit that ships with eclipse 3.3
+[^1]: default version of junit that ships with eclipse 3.3
