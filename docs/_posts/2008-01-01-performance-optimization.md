@@ -126,11 +126,9 @@ programmers](http://www.pragprog.com/),
 [rails](http://www.rubyonrails.org/), and the whole community around it.
 and of course, it is not the technology but the mindset.
 
-[^1]: [donald knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
-paraphrasing [hoare](http://en.wikipedia.org/wiki/C._A._R._Hoare)
-
-[^2]: with apologies to [m. a.
-jackson](http://en.wikipedia.org/wiki/Michael_A._Jackson)
-
-[^3]: with apologies to [w. a.
-wulf](http://en.wikipedia.org/wiki/William_Wulf)
+[^1]: [donald knuth](http://en.wikipedia.org/wiki/Donald_Knuth) 
+  paraphrasing [hoare](http://en.wikipedia.org/wiki/C._A._R._Hoare)
+[^2]: with apologies to 
+  [m. a. jackson](http://en.wikipedia.org/wiki/Michael_A._Jackson)
+[^3]: with apologies to 
+  [w. a. wulf](http://en.wikipedia.org/wiki/William_Wulf)
