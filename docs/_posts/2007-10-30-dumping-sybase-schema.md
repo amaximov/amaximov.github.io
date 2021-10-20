@@ -40,24 +40,23 @@ well).
 
 -   rig up the wrapper script:
 
-<!-- -->
-
+```sh
     $ cat c:/programs/sybase/ddlgen/ddlgen.sh 
     JAVA_HOME=c:/programs/java/jdk/jdk1.6.0_03
     LIB_DIR=`dirname $0`/lib
     CLASSPATH=$LIB_DIR/jconn3.jar:$LIB_DIR/dsparser.jar:$LIB_DIR/DDLGen.jar
 
-    $JAVA_HOME/bin/java \\
-    -mx500m \\
-    -classpath `cygpath --mixed --path $CLASSPATH` \\
+    $JAVA_HOME/bin/java \
+    -mx500m \
+    -classpath `cygpath --mixed --path $CLASSPATH` \
     com.sybase.ddlgen.DDLGenerator $*
+```
 
 # backup scripts
 
 -   `schema-out.sh`
 
-<!-- -->
-
+```sh
     source env.sh
 
     [ ! -d $OUT_DIR ] && mkdir -p $OUT_DIR
@@ -66,13 +65,13 @@ well).
         out_file=`cygpath --mixed --absolute $OUT_DIR/${table}-schema.txt`
         printf "dumping $table schema to $out_file... " 
         $DDLGEN -U $USERNAME -P $PASSWORD -S $SERVER:$PORT -D $DATABASE -TU -N$table -O $out_file
-        printf "done\\n" 
+        printf "done\n" 
     done
+```
 
 -   `bcp-out.sh`
 
-<!-- -->
-
+```sh
     source env.sh
 
     [ ! -d $OUT_DIR ] && mkdir -p $OUT_DIR
@@ -84,13 +83,13 @@ well).
         out_file=`cygpath --mixed --absolute $OUT_DIR/${table}-bcp.txt`
         printf "dumping $table to $out_file... " 
         bcp $DATABASE.dbo.$table out $out_file -c -t, -S $SERVER -U $USERNAME -P $PASSWORD >> $LOG
-        printf "done\\n" 
+        printf "done\n"
     done
+```
 
 -   `schema-in.sh`
 
-<!-- -->
-
+```sh
     source env.sh
 
     LOG=`dirname $0`/schema-in.log
@@ -101,13 +100,13 @@ well).
         [ ! -f $in_file ] && echo "$in_file does not exist for $table, skipping" && continue
         printf "loading $table schema from $in_file... " 
         isql -S$SERVER -U$USERNAME -P$PASSWORD < $in_file >> $LOG
-        printf "done\\n" 
+        printf "done\n" 
     done
+```
 
 -   `bcp-in.sh`
 
-<!-- -->
-
+```sh
     source env.sh
 
     [ ! -d $OUT_DIR ] && mkdir -p $OUT_DIR
@@ -120,10 +119,11 @@ well).
         [ ! -f $in_file ] && echo "$in_file does not exist for $table, skipping" && continue
         printf "loading $table from $in_file... " 
         bcp $DATABASE.dbo.$table in $in_file -c -t, -S $SERVER -U $USERNAME -P $PASSWORD >> $LOG
-        printf "done\\n" 
+        printf "done\n" 
     done
+```
 
 do i feel silly? yes. do i feel petty? yes. does it make me feel better
-about myself, given that the sybase <span class="caps">DBA</span> told
+about myself, given that the sybase DBA told
 me to contact dbartisan support to see if i could script their tool to
 do this? oh yes.
