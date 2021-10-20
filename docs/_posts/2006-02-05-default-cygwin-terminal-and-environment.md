@@ -13,19 +13,21 @@ i never bothered to get it fixed. until now that is. use `rxvt` instead
 (you need to install it first): create a shortcut with the following
 command line:
 
-    D:\\programs\\cygwin\\bin\\rxvt.exe \\
-    -vb -sr -sl 20000 \\
-    -fn courier \\
-    -g 120x50 \\
-    -e /usr/bin/bash \\
+    D:\programs\cygwin\bin\rxvt.exe \
+    -vb -sr -sl 20000 \
+    -fn courier \
+    -g 120x50 \
+    -e /usr/bin/bash \
     --login -i
 
 `man rxvt` to see what those actually mean. then edit your
-`.bash_profile` (in case your $HOME is unnatural and your `.bashrc` does
+`.bash_profile` (in case your `$HOME` is unnatural and your `.bashrc` does
 not get read) and add the following:
 
+```sh
     alias less='/bin/less -r'
     alias ls='/bin/ls -F --color=tty --show-control-chars'
+```
 
 you should also put the following in your `.vimrc`:
 
