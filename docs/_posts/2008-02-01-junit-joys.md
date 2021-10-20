@@ -17,7 +17,7 @@ junit4.3.1[^1] combo to load, i furiously coded a bunch
 of tests, and then realized that i could not make them fail. essentially
 it boiled down to the following:
 
-``` javascript
+```java
 assertEquals(1.0, 1.1);
 ```
 
@@ -43,7 +43,7 @@ deal?
 but nooooooooo, check out [this little bundle of
 joy](http://junit.cvs.sourceforge.net/junit/junit/src/org/junit/Assert.java?view=markup&pathrev=r43):
 
-``` javascript
+```java
 private static boolean isEquals(Object expected, Object actual) {
     if (expected instanceof Number && actual instanceof Number)
         return ((Number) expected).longValue() == ((Number) actual).longValue();
@@ -71,7 +71,7 @@ api](https://testng.dev.java.net/source/browse/testng/src/main/org/testng/Assert
 is the same, and under jdk1.5 my primitives get autoboxed into `Double`s
 and `assertEquals(Object, Object)` gets called:
 
-``` javascript
+```java
 public static void assertEquals(Object actual, Object expected, String message) {
     if (expected == null && actual == null)
         return;
