@@ -24,7 +24,7 @@ your google language preferences to irish.
 thus you could try to impress those inquisitive souls looking for things
 on your site with the following apache config directive:
 
-    RedirectMatch \\.(php|phtml|phps|php3)$ http://www.google.com/setprefs?hl=xx-klingon
+    RedirectMatch \.(php|phtml|phps|php3)$ http://www.google.com/setprefs?hl=xx-klingon
 
 therefore any request to a booby-trapped url on your site (in this case
 anything that ends in php) would set their google search language to
@@ -39,7 +39,7 @@ similar behavior can be triggered with javascript, iframes, etc.
 
 how do you protect from it? the app has to use unique tokens in the form
 presented to the user (or one can start lugging around those encrypted
-URLs again – anyone remembers <span class="caps">IBM</span>’s
+URLs again – anyone remembers IBM’s
 Net.Commerce?)
 
 since i am (somewhat reluctantly and half-asleep) reading [gibson’s
