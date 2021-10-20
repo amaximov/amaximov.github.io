@@ -8,7 +8,8 @@ title: >-
 looking back i am surprised at how little importance i saw in the
 process of interviewing the interviewer.
 
-<img src="/assets/2007/9/14/grading.jpg" data-align="right" data-hspace="10" />
+![grading](/assets/2007/9/14/grading.jpg)
+
 it’s pretty simple – for me the main criterion is how good the people
 are that i will be working with. they have to be better than me, and i
 have to be able to learn from them. once this is in place, everything
