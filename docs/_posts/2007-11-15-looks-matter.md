@@ -5,7 +5,7 @@ title: >-
     looks matter
 ---
 
-<img src="http://blog.splitbody.com/assets/2007/11/15/bday_cake.jpg" data-align="right" data-hspace="10" />
+![birthday cake](/assets/2007/11/15/bday_cake.jpg)
 well, actually, *excitement* matters.
 
 in particular, how do you motivate people to contribute; to write *that
