@@ -11,7 +11,7 @@ derby](http://www.estherderby.com/) that
 [muness](http://muness.blogspot.com/) pointed out to me a while ago is
 quite appropriate. here’s a quote:
 
-<img src="http://blog.splitbody.com/assets/2007/11/15/monument_speaker.jpg" data-align="right" data-hspace="10" />
+![monument speaker](/assets/2007/11/15/monument_speaker.jpg)
 
 > Most people show up for a new job with high motivation. They’re
 > excited and they want to do a good job. But as the weeks pass,
@@ -27,5 +27,5 @@ cultivate it, if possible). they have a perspective and the motivation
 that might disappear later. they can bring in the new ideas, point out
 something you’ve never thought of, or simply challenge the status quo.
 this sort of disruptive energy is very healthy and should happen on
-regular basis… just *stop demotivating me!* (sorry, i could not resist –
+regular basis... just *stop demotivating me!* (sorry, i could not resist –
 the article title is way too catchy)
