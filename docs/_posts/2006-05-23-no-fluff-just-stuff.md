@@ -112,8 +112,7 @@ programmer, and where each one fits). another good point - mentoring
 looking through the slides for the first day, i realized that [glenn
 vanderburg](http://www.nofluffjuststuff.com/speaker_view.jsp?speakerId=17)
 had a very nice [talk on collections
-api](http://www.nofluffjuststuff.com/speaker_topic_view.jsp?topicId=88)
-- filled with practical details, very hands on, very useful. i think
+api](http://www.nofluffjuststuff.com/speaker_topic_view.jsp?topicId=88); filled with practical details, very hands on, very useful. i think
 this goes for all of his other talks that weekend - very well
 researched, very thorough, very technical, in retrospect, i wish i have
 attended more of them.
