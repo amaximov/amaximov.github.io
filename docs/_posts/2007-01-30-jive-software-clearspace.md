@@ -9,7 +9,7 @@ jive software
 "[clearspace](http://www.jivesoftware.com/products/clearspace/ "clearspace")"
 finally went beta, and is available for download.
 
-<img src="/assets/2007/8/27/logo_clearspace.gif" data-hspace="10" data-align="right" />
+![clearspace logo](/assets/2007/8/27/logo_clearspace.gif)
 
 first i came into contact with these guys through [their IM server
 product](http://www.jivesoftware.com/products/im/ "wildfire IM server").
@@ -36,10 +36,10 @@ all in context. this is not a slapped together CMS monster or behemoth
 of a sharepoint, but a collaboration tool that pulls together sensible
 implementations of all these existing forms of communication. this is
 something i talked about in an [old school paper of
-mine](http://body.splitbody.com/wiki/body/space/school/capstone/topics/collaborative+tools+for+software+development/paper.pdf "old school paper on collaborative tools");
+mine](assets/paper.pdf "old school paper on collaborative tools");
 i also briefly talked about it
-[here](/articles/2006/09/04/why-wiki "why wiki?") and
-[here](/articles/2006/12/17/why-wiki-continued "why wiki? continued").
+[here](/2006/9/4/why-wiki "why wiki?") and
+[here](/2006/12/17/why-wiki-continued "why wiki? continued").
 
 we'll see if the product actually does all this stuff, but i would
 definitely dedicate some time to playing with it.
