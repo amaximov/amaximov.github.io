@@ -13,11 +13,11 @@ user to the basic auth passwd file (in my case Apache checks there
 first, then goes to Active Directory), give this user XML_RPC privilege
 in trac admin, and there you go:
 
-
-    #!python
+```python
     import xmlrpclib
     server = xmlrpclib.ServerProxy("http://username:password@host/trac/login/xmlrpc")
     print server.wiki.getPage("WikiStart")
+```
 
 just imagine the possibilities that make trac an application platform -
 easily create pages/attachments or edit entries in response to events
@@ -37,7 +37,7 @@ to a local hard drive; it is using ruby, since my python skills are nil
 more convenient to use and succinct, compared to
 [xmlrpc4r](http://www.ntecs.de/projects/xmlrpc4r/client.html "xmlrpc4r")):
 
-``` ruby
+```ruby
 #!ruby
 require 'xmlrpc/client'
 require 'fileutils'
