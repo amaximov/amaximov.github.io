@@ -9,8 +9,7 @@ i am a semi-regular reader of the [codecraft
 blog](http://www.journalhome.com/codecraft/) (and highly recommend it).
 in [one of the recent
 posts](http://www.journalhome.com/codecraft/13920/) he talks at length
-about the software market in india, the hiring practices, the challenges
-- all from a viewpoint of someone that is currently involved in it.
+about the software market in india, the hiring practices, the challenges - all from a viewpoint of someone that is currently involved in it.
 don't skip the comments - they are a great read as well.
 
 although my experience with outsourcing is very limited (only recently i
