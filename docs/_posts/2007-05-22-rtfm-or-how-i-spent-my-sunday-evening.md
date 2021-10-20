@@ -47,8 +47,9 @@ installer, but under linux it quietly slips in an iso under the guise of
 `/dev/cdrom`
 
 now it's just typing and [joyous
-cargo-culting](http://en.wikipedia.org/wiki/Cargo_cult_software_engineering)
-- run the installer script, build the kernel modules, check'em with
+cargo-culting](http://en.wikipedia.org/wiki/Cargo_cult_software_engineering):
+
+run the installer script, build the kernel modules, check'em with
 `lsmod`, `symlink net.eth0` to network (boy, do i feel dirty), play some
 more tricks to appease the gentoo startup script gods and vmware
 reliance on redhat-like `rc`, and voila - vmware starts before `net\*`, `eth0`
