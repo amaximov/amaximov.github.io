@@ -15,7 +15,7 @@ argument in command line); if you get bizarre memory relocation/unable
 to remap fatal errors when running rake, then try the following:
 
 -   shutdown/exit all your cygwin processes
--   run ash from start/run (it is under `bin\\ash` in your cygwin
+-   run ash from start/run (it is under `bin\ash` in your cygwin
     directory)
 -   then run `rebaseall`
 
