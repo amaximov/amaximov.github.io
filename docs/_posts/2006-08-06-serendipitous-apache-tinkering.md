@@ -53,8 +53,8 @@ some bizarre problems with handling connectivity with the backend server
 there are a couple of bugs filed on the apache bugzilla, but nothing
 confirmed yet:
 
-<http://issues.apache.org/bugzilla/show_bug.cgi?id=37770>
-<http://issues.apache.org/bugzilla/show_bug.cgi?id=39499>
+* <http://issues.apache.org/bugzilla/show_bug.cgi?id=37770>
+* <http://issues.apache.org/bugzilla/show_bug.cgi?id=39499>
 
 since my stuff was compiled with worker mpm, the easiest workaround was
 to use `SetEnv proxy-nokeepalive 1`. other potential workarounds
