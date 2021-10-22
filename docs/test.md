@@ -1,4 +1,4 @@
-{% assign files = site.static_files | where_exp: "item", "item.path contains '/files/'" | sort: 'modified_time' | reverse %}
+{% assign files = site.static_files | where_exp: "item", "item.path contains '/files/'" | sort: 'path' | reverse %}
 <table>
 {% for f in files %}
   <tr>
