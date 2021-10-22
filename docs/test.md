@@ -2,8 +2,8 @@
 <table>
 {% for f in files %}
   <tr>
-    <td>`{{ f.modified_time }}`</td>
-    <td>`[{{ f.path }}]({{ f.path }})`</td>
+    <td><dd>{{ f.modified_time }</dd></td>
+    <td><a href="{{ f.path }}">{{ f.path }})</a></td>
   </tr>
 {% endfor %}
 </table>
