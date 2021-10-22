@@ -2,7 +2,7 @@
 <table>
 {% for f in files %}
   <tr>
-    <td><dd>{{ f.modified_time }}</dd></td>
+    <td>{{ f.modified_time | date: "%Y-%m-%d %H:%M" }}</td>
     <td><a href="{{ f.path }}">{{ f.path }}</a></td>
   </tr>
 {% endfor %}
