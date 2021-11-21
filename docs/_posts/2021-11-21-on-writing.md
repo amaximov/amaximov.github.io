@@ -4,7 +4,7 @@ Blogging has been a great way for me to explore ideas, to articulate my own posi
 
 And yet I have stopped, shortly after I started consulting. That was puzzling, since I still cared about the field, and I still enjoyed reading others’ writing.
 
-[what should i do?](/assets/2021/11/21/what_should_i_do.png)
+![what should i do?](/assets/2021/11/21/what_should_i_do.png)
 
 At first I thought that writing for consulting (e.g. proposals or design documents) is where this energy went.
 
@@ -16,7 +16,7 @@ Looking further back, I realize how much energy I spent putting up a front for o
 
 And yet, I remember very well how I learned that I could say, “I do not know” early in my professional career. It felt liberating. I do have to admit that it is still not entirely a second nature, and at times it is a deliberate effort to say, “I do not know.”
 
-[audience](/assets/2021/11/21/audience.png)
+![audience](/assets/2021/11/21/audience.png)
 
 I would like to restart this writing outlet, knowing how much it gives me.
 
