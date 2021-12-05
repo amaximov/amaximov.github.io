@@ -1,3 +1,7 @@
+---
+title: On writing
+---
+
 I have stopped blogging on work topics for at least a decade.
 
 Blogging has been a great way for me to explore ideas, to articulate my own position on various topics. It served as a tool as well as the medium for self-expression.
