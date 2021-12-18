@@ -46,7 +46,7 @@ As engineers, a Pull Request is a natural place for reviewing others' work, espe
 
 Of course, a PR process is fine for authoring a design document, and its use will depend on what the team is familiar and comfortble with.
 
-## Architecture Decision Records(ADRs)
+## Architecture Decision Records (ADRs)
 
 What about Architecture Decision Records (ADRs)? They might be too tactical—after all, we are talking about one document per decision. One might be losing sight of the forest for the trees. If you decide to stick to ADRs, at least discuss them in a high-bandwidth setting first (e.g. architecture roundtable), do not just rely on pull requests (PRs) to shape the overall document, it would drag the process out for much longer.
 
