@@ -16,7 +16,7 @@ The audience for this document would be both the designers/engineers that can he
 
 When it comes to evaluating options, it is helpful to start with elimination first.
 
-![](/assets/img/troika.jpg)
+![](/assets/img/troika.png)
 
 ## Slides
 
@@ -50,7 +50,7 @@ Of course, a PR process is fine for authoring a design document, and its use wil
 
 What about Architecture Decision Records (ADRs)? They might be too tactical—after all, we are talking about one document per decision. One might be losing sight of the forest for the trees. If you decide to stick to ADRs, at least discuss them in a high-bandwidth setting first (e.g. architecture roundtable), do not just rely on pull requests (PRs) to shape the overall document, it would drag the process out for much longer.
 
-![](/assets/img/typewriter-reading.jpg)
+![](/assets/img/typewriter-reading.png)
 
 So this leaves us with design documents, although some might call them Request For Comments (RFCs), the name that establishes continuity with the well-known RFC process that governs the Internet.
 
