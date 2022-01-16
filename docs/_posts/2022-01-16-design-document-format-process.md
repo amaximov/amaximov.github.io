@@ -8,9 +8,9 @@ I am resisting the temptation to present the complete format here, since it is c
 
 As a recap, the design doc documents the high level implementation strategy and key design decisions with emphasis on the trade-offs that were considered during those decisions.
 
-![](/assets/img/thinker.png)
-
 # Document sections
+
+![](/assets/img/thinker.png)
 
 ## Size
 
