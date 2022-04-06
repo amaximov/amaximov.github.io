@@ -65,7 +65,7 @@ Diagrams - use them, they really help. Stick to context diagrams and architectur
 
 Diagrams are not the easiest thing to author. They require a visual skill and ability to simplify and organize that takes time to develop. Some people never get there.
 
-While it might be tempting to use tools that lay out diagrams automatically for you (e.g. Python’s Diagrams), consider what you are trying to convey. It is not just the building blocks, but their relationship to each other. It is the concepts that map into the design. For more complex designs the way you lay things out and how you present them is what makes all the difference. The way you group, color, organize things is what makes the meaning come across. This is part of presentation design, not the mechanical layout of constituent pieces.
+While it might be tempting to use tools that lay out diagrams automatically for you (e.g. Python’s Diagrams), consider what you are trying to convey. It is not just the building blocks, but their relationship to each other. It is the concepts that map into the design. For more complex designs the way you lay things out and how you present them is what makes all the difference. The way you group, color, organize things is what makes the meaning come across. This is part of presentation design, not the mechanical layout of constituent pieces [^1].
 
 A well-done diagram becomes a reusable thinking tool for the roundtable discussion, something a wall of text cannot do.
 
@@ -114,4 +114,4 @@ It is important to create an atmosphere of deeply engaged participants that are 
 
 Consider adding a list of reviewers to the document to help with accountability. Try sending the document out beforehand, try making people read the document at the beginning of the meeting in silence. There is no silver bullet—but you do need engaged participants that recognize it as their job.
 
-
+[^1]: of course, simpler diagrams, especially sequence diagrams, are much easier to author in text, especially if their source code is colocated with your document, e.g. [GitHub markdown supporting Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
