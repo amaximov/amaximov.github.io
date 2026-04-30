@@ -11,7 +11,7 @@ It should be ambitious and even if one cannot commit to specific headline-grabbi
 
 **North Star** - if I were to call out one, it is the new way of working that is already here, and it is here to stay. The AI is the co-worker/co-pilot that you reach out to first. We are switching to agent-first for knowledge work. Yes, it is ambiguous, but the details will be company-specific.
 
-I believe that the resulting product features for your business will follow better as you build the intuition for how the work changes, and your customers’ way of working also evolves.
+I believe that the above will play into your own product features as you build the intuition for how the work changes, and your customers’ way of working also evolves.
 
 ## Ownership
 
