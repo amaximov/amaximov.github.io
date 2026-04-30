@@ -1,5 +1,5 @@
 ---
-AI adoption playbook, part 1
+title: AI adoption playbook: the org
 ---
 Most conversations I have about AI adoption are anxious ones, and the anxiety is not unfounded. The companies that seem to have figured it out pull away faster than the rest can think, and FOMO crowds out judgement at exactly the moment it matters most. What follows is meant to cut through that: tangible things I have done over the past year at a fintech startup and on personal projects, offered less as a playbook than as a record of how I have been thinking and operating.
 
