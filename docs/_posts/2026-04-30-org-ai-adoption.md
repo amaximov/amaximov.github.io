@@ -9,6 +9,8 @@ It is useful to make a top-down, exec-level commitment to adopting and mastering
 
 It should be ambitious and even if one cannot commit to specific headline-grabbing metrics right away, it should be an org-wide push. As with any top-down initiative, it should be repeated regularly and woven through all communication mediums.
 
+![](/assets/img/direction.png)
+
 **North Star** - if I were to call out one, it is the new way of working that is already here, and it is here to stay. The AI is the co-worker/co-pilot that you reach out to first. We are switching to agent-first for knowledge work. Yes, it is ambiguous, but the details will be company-specific.
 
 I believe that the above will play into your own product features as you build the intuition for how the work changes, and your customers’ way of working also evolves.
@@ -16,6 +18,8 @@ I believe that the above will play into your own product features as you build t
 ## Ownership
 
 **Directly Responsible Individual** - name an accountable executive to drive this (C* depending on your stage and structure). Make it their quarterly/yearly goal, tie metrics to it. This creates a single place for decision-making; otherwise it might be your Security or IT or even Legal & Compliance wagging the dog.
+
+![](/assets/img/ownership.png)
 
 **Enablement team** - Initially the enablement work lands on the Platform/IT teams (evaluating the tools, connecting them to the ecosystem, supporting them), leaning on the grass-roots energy, individual champions, with executive support. At some level of scale it might be prudent to invest in the internal enablement team, even if it is just a single individual. The platform will become an internal product as the tools and processes accumulate.
 
@@ -28,6 +32,8 @@ I believe that the above will play into your own product features as you build t
 **Keep removing friction** - what can we use, how, what data is appropriate to feed into the tools, what are the budgets, which accounts (personal vs. corporate), what is off-limits, can we point these tools at x/y/z - all these should be continuously clarified, updated, and broadcast. There should be a place people can go to and ask these questions and get an immediate answer (most likely, a dedicated Slack channel). Another useful tool I found is the Thoughtworks Radar format - arranging tools and practices into Assess/Trial/Adopt rubrics and publishing it regularly.
 
 Eventually all of the above gets pushed into the tools and the platform so that the questions do not even arise.
+
+![](/assets/img/clarity.png)
 
 **Culture** - in smaller companies it is easier to lean on the culture of openness, where one tries things out in the open and invites help early. It helps to broadcast that attitude constantly and model a curiosity-first approach. Clarify the high-level guardrails continuously, and then with visible excitement, not freaking out with the compliance hat on. Let me find a way to make it work vs. immediately jumping into risk mitigation.
 
@@ -71,6 +77,8 @@ It is important to reflect how we think and talk about AI adoption. Not the brea
 
 This is the operational aspect that reflects the need to thread the AI adoption through the org’s processes.
 
+![](/assets/img/people.png)
+
 **Recruiting** - use the AI adoption as a differentiation and marketing tool. People should want to join the AI-forward team, and you need to articulate your approach and positioning in the job descriptions and other public materials.
 
 **Interview evaluation** - for any job family a candidate should demonstrate how they use the AI tools. Ideally, your prompt should make them build something that they can bring to the interview and walk you through how they built it. Find other ways to test it.
@@ -96,6 +104,8 @@ I would at least highlight adoption metrics, point out a few sanitized use cases
 ## Risk and compliance
 
 Doing GRC (Governance, Risk, and Compliance) well is a competitive advantage for a fintech. You have to build this muscle and exercise it constantly. Of course, it should be appropriate for the company stage and risk you are willing to take.
+
+![](/assets/img/grc.png)
 
 Where this crops up immediately is in the prospective clients’ questionnaires, RFPs, partnerships, and various audits. Do not let yourself be caught off-guard and resort to hand-waving.
 
