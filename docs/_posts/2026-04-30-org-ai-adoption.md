@@ -21,7 +21,7 @@ I believe that the above will play into your own product features as you build t
 
 ![](/assets/img/ownership.png)
 
-**Enablement team** - Initially the enablement work lands on the Platform/IT teams (evaluating the tools, connecting them to the ecosystem, supporting them), leaning on the grass-roots energy, individual champions, with executive support. At some level of scale it might be prudent to invest in the internal enablement team, even if it is just a single individual. The platform will become an internal product as the tools and processes accumulate.
+**Enablement team** - initially the enablement work lands on the Platform/IT teams (evaluating the tools, connecting them to the ecosystem, supporting them), leaning on the grass-roots energy, individual champions, with executive support. At some level of scale it might be prudent to invest in the internal enablement team, even if it is just a single individual. The platform will become an internal product as the tools and processes accumulate.
 
 **Role of the platform** - what’s important to note, platform at its best is not for gatekeeping, but an enabler - the concentrated investment and clearing place for ideas. The speed of change requires innovation and experimentation happening around the company, not in a centralized place. So the platform should enable that and otherwise get out of the way.
 
