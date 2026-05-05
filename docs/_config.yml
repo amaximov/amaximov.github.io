@@ -4,7 +4,40 @@ logo: /assets/img/digging.jpeg
 google_analytics: G-BC6B95NDV6
 timezone: America/New_York
 
+url: https://antonmaximov.com
+description: >-
+  Notes on engineering leadership, technology, and adjacent topics
+  by Anton Maximov.
+lang: en-US
+
+author:
+  name: Anton Maximov
+  email: mail@antonmaximov.com
+  url: https://antonmaximov.com
+
+twitter:
+  username: amaximov
+  card: summary_large_image
+
+social:
+  name: Anton Maximov
+  links:
+    - https://linkedin.com/in/amaximov
+    - https://twitter.com/amaximov
+    - https://github.com/amaximov
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/og-default.png
+      author: Anton Maximov
   - scope:
       path: ""
       type: posts
