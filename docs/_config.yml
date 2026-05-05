@@ -3,3 +3,15 @@ title: anton maximov
 logo: /assets/img/digging.jpeg
 google_analytics: G-BC6B95NDV6
 timezone: America/New_York
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
